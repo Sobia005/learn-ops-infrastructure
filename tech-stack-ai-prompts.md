@@ -1,5 +1,5 @@
  First prompt
- Add this section to CLAUDE.md.Find all config and environment files in this repo and fill in at least 3 key config variables from each file.Impotant: Never include literal secret values, passwords, tokens, API keys, or credentials. Only include the configuration variable name, such as POSTGRES_USER or POSTGRES_DB, not its actual value.Use this format:
+ Add this section to tech-stack-ai.md.Find all config and environment files in this repo and fill in at least 3 key config variables from each file.Impotant: Never include literal secret values, passwords, tokens, API keys, or credentials. Only include the configuration variable name, such as POSTGRES_USER or POSTGRES_DB, not its actual value.Use this format:
 
   1a. Config Files
 
