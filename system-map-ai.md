@@ -2,6 +2,8 @@
 
 ## 1. System Diagram
 
+![Learning Platform system diagram](system-diagram.png)
+
 ```mermaid
 graph LR
   Client[React Client :3000]
